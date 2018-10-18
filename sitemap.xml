@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://mou.st/posts/placeholder/</loc>
+    <lastmod>2018-10-18T15:18:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mou.st/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mou.st/</loc>
+    <lastmod>2018-10-18T15:18:15+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mou.st/posts/</loc>
+    <lastmod>2018-10-18T15:18:15+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mou.st/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

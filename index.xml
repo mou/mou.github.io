@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MOU</title>
+    <link>http://mou.st/</link>
+    <description>Recent content on MOU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 15:18:15 +0300</lastBuildDate>
+    
+	<atom:link href="http://mou.st/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Placeholder</title>
+      <link>http://mou.st/posts/placeholder/</link>
+      <pubDate>Thu, 18 Oct 2018 15:18:15 +0300</pubDate>
+      
+      <guid>http://mou.st/posts/placeholder/</guid>
+      <description>Here paragraph</description>
+    </item>
+    
+  </channel>
+</rss>
