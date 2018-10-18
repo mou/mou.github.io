@@ -1,0 +1,13 @@
+baseURL = "http://mou.st/"
+languageCode = "en-us"
+title = "MOU"
+theme = "kiera"
+
+pygmentsCodeFences = true
+
+
+[author]
+    name = "MOU"
+
+[params]
+    tagline = "Napkins"
